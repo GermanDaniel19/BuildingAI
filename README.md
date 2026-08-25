@@ -2,11 +2,11 @@
 
 Building AI course project
 
-Summary
+## Summary
 
 An AI-powered traffic monitoring solution designed to analyze live CCTV video feeds, detect incidents and early-stage bottlenecks, and automatically notify transit authorities before major gridlocks occur.
 
-Background
+## Background
 
 Urban traffic management relies heavily on reactive measures—officers or systems usually respond after a severe traffic jam has already formed. 
 
