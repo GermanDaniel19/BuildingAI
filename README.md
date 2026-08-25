@@ -1,5 +1,5 @@
 Markdown
-# RealTime Traffic Bottleneck & Incident Detector
+# Real-Time Traffic Bottleneck & Incident Detector
 
 Building AI course project
 
